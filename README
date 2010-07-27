@@ -2,21 +2,10 @@
 
 A small genetic algorithm framework, written in Clojure
 
-## Installation
-
-Install leiningen! Then, run the following commands:
-
-lein deps
-lein swank
-
-Then connect via emacs/SLIME. Navigate to src/Example and complile (C-c C-c)
-example.clj, then run:
-
-(example/run-example)
-
 ## License
 
-Copyright (C) 2010 Ethan Fast
+Copyright (C) 2010 Ethan Fast (original author)
+Copyright (C) 2010 David Ellis
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
